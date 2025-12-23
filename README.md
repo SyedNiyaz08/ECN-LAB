@@ -1,5 +1,8 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+SYED NIYAZ A
+212225060284
+
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
